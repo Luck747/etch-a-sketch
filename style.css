@@ -9,14 +9,14 @@ body {
     background-color: #000000;
 }
 
-#generate-grid-button {
+#gridButton {
     display: block;
     font-size: 24px;
     margin: 20px auto;
-    padding: 8px;
+    padding: 10px;
 }
 
-.white-background {
+.whiteBackground {
     background-color: #efefef;
 }
 
